@@ -1,1 +1,7 @@
-{"name": "Dark Theme Switcher", "description": "Allows to switch dark theme for applications from GNOME system menu", "uuid": "dark-theme-switch@sorrow.about.alice.pm.me", "shell-version": ["3.32.1"]}
+{
+  "name": "Dark Theme Switcher",
+  "description": "Allows to switch dark theme for applications from GNOME system menu",
+  "uuid": "dark-theme-switch@sorrow.about.alice.pm.me",
+  "url": "https://github.com/soal/gnome-shell-extension-dark-theme-switch",
+  "shell-version": ["3.32.1"]
+}
